@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [BRQ]() and [Bento]()
 
-- 💬 Ask me about **ReactJs, Next.Js, JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **ReactJs, Next.Js, React Native, Typescript, JavaScript, HTML, CSS, SQL, Node.JS**
 
 <br><br>
 
