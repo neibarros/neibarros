@@ -44,8 +44,8 @@
 <a href="https://linkedin.com/in/neibarros" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-neibarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/neibarros" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-neibarros-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/nei_barros" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-nei_barros-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
