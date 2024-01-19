@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Front End Developer 
 
-- 🔭 I’m currently working at [BRQ]() and [Bento]()
+- 🔭 I’m currently working at [Bento]()
 
 - 💬 Ask me about **ReactJs, Next.Js, React Native, Typescript, JavaScript, HTML, CSS, SQL, Node.JS**
 
