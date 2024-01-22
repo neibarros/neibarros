@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Front End Developer 
 
-- 🔭 I’m currently working at [Bento](https://bento.ky)
+- 🔭 I’m currently working at <a href="https://bento.ky" target="_blank">Bento</a>
 
 - 💬 Ask me about **ReactJs, Next.Js, Tailwind, React Native, Typescript, JavaScript, HTML, CSS, SQL, Node.JS**
 
