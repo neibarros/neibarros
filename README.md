@@ -4,9 +4,9 @@
 
 - 🔥 Sênior Front End Developer 
 
-- 🔭 I’m currently working at [Bento]()
+- 🔭 I’m currently working at [Bento](https://bento.ky)
 
-- 💬 Ask me about **ReactJs, Next.Js, React Native, Typescript, JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **ReactJs, Next.Js, Tailwind, React Native, Typescript, JavaScript, HTML, CSS, SQL, Node.JS**
 
 <br><br>
 
@@ -29,7 +29,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=neibarros&show_icons=true&theme=vision-friendly-dark" alt="neibarros's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neibarros&layout=compact&theme=vision-friendly-dark" alt="neibarros's most languages"/>
 </p>
 
@@ -48,8 +47,6 @@
  <img align="center" src="https://img.shields.io/badge/-nei_barros-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=nei_abarros&layout=wide&show_reply=off&show_retweet=off" />
 
 <!--
 **neibarros/neibarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
